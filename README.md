@@ -1,6 +1,10 @@
 # Breast-cancer-classification
 Benign vs Malignant classifier using convolutional neural networks
 
+## IMPORTANT
+
+Absolutely, under NO circumstance, should one ever screen patients using computer vision software trained with this code (or any home made software for that matter). 
+
 ## If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 Check out the corresponding medium blog post [https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9](https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9).
