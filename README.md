@@ -78,6 +78,14 @@ dataset train
 
 The model is able to reach a validation accuracy of 98.3%, precision 0.65, recall 0.95, f1 score of 0.77 and ROC-AUC as 0.692.
 
+## References
+
+1. https://peerj.com/articles/6201.pdf
+
+2. https://arxiv.org/pdf/1811.04241
+
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6440620/
+
 ## Citing
 
 ```
