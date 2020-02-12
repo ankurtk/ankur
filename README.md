@@ -1,5 +1,6 @@
 # Breast-cancer-classification
-Benign vs Malignant classifier using convolutional neural networks
+
+Unofficial code for paper "Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network"
 
 ## IMPORTANT
 
