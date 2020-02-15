@@ -1,6 +1,6 @@
 # Breast-cancer-classification
 
-Unofficial code for paper "Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network"
+Implementation of the paper "Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network"
 
 ## IMPORTANT
 
