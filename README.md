@@ -1,6 +1,6 @@
 # Breast-cancer-classification
 
-Implementation of the paper "Breast Cancer Classification from Histopathological Images with Inception Recurrent Residual Convolutional Neural Network"
+Breast Cancer Classification using CNN and transfer learning
 
 ## IMPORTANT
 
