@@ -87,26 +87,16 @@ The model is able to reach a validation accuracy of 98.3%, precision 0.65, recal
 
 ## Citing
 
+If you find this code useful in your research, please consider citing the blog:
+
 ```
-@misc{Abhinav:2019,
+@misc{sagarconvolutional,
   Author = {Abhinav Sagar},
-  Title = {Breast-cancer-classification},
+  Title = {Convolutional Neural Network for Breast Cancer Classification},
   Year = {2019},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/abhinavsagar/Breast-cancer-classification}}
+  Journal = {Towards Data Science},
 }
 ```
-
-## Contacts
-
-If you want to keep updated with my latest articles and projects follow me on Medium. These are some of my contacts details:
-
-1. [Personal Website](https://abhinavsagar.github.io/)
-2. [Linkedin](https://in.linkedin.com/in/abhinavsagar4)
-3. [Medium](https://medium.com/@abhinav.sagar)
-4. [GitHub](https://github.com/abhinavsagar)
-5. [Kaggle](https://www.kaggle.com/abhinavsagar)
 
 ## License
 
