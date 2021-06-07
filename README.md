@@ -2,6 +2,19 @@
 
 Breast Cancer Classification using CNN and transfer learning
 
+## Citing
+
+If you find this code useful in your research, please consider citing the blog:
+
+```
+@misc{sagarconvolutional,
+  Author = {Abhinav Sagar},
+  Title = {Convolutional Neural Network for Breast Cancer Classification},
+  Year = {2019},
+  Journal = {Towards Data Science},
+}
+```
+
 ## IMPORTANT
 
 Absolutely, under NO circumstance, should one ever screen patients using computer vision software trained with this code (or any home made software for that matter). 
@@ -84,19 +97,6 @@ The model is able to reach a validation accuracy of 98.3%, precision 0.65, recal
 2. https://arxiv.org/pdf/1811.04241
 
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6440620/
-
-## Citing
-
-If you find this code useful in your research, please consider citing the blog:
-
-```
-@misc{sagarconvolutional,
-  Author = {Abhinav Sagar},
-  Title = {Convolutional Neural Network for Breast Cancer Classification},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
 
 ## License
 
