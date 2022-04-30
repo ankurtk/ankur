@@ -1,24 +1,5 @@
 # Breast-cancer-classification
 
-Breast Cancer Classification using CNN and transfer learning
-
-## Citing
-
-If you find this code useful in your research, please consider citing the blog:
-
-```
-@misc{sagarconvolutional,
-  Author = {Abhinav Sagar},
-  Title = {Convolutional Neural Network for Breast Cancer Classification},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
-
-## IMPORTANT
-
-Absolutely, under NO circumstance, should one ever screen patients using computer vision software trained with this code (or any home made software for that matter). 
-
 Check out the corresponding medium blog post [https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9](https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9).
 
 ## Data
